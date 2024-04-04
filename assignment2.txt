@@ -1,0 +1,2 @@
+example of another file
+made from the browser
