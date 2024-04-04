@@ -1,3 +1,8 @@
 This is an example git file
 
+<<<<<<< HEAD
 Used in class.
+=======
+
+Testing pull 
+>>>>>>> 6b99381ccc2169a540c339ee5c38da075619a0ad
